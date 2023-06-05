@@ -1,0 +1,20 @@
+{
+    "name": "nazar/querybuilder",
+    "description": "Simple QueryBuilder",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nazarii Korol",
+            "email": "nazarkorol3684@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Builder\\": "src/"
+        }
+    }
+}
